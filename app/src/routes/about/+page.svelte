@@ -1,5 +1,5 @@
 <script>
-  let title = "SvelteKit Test Landing Page"
+    let title = "SvelteKit About Landing Page"
 </script>
 
 <div class="page">
@@ -8,7 +8,7 @@
 </div>
 
 <style>
-  .page {
-      text-align: center;
-  }
+    .page {
+        text-align: center;
+    }
 </style>
